@@ -1,0 +1,14 @@
+{
+    "name": "com.icarmo.mytools",
+    "version": "1.0.0",
+    "displayNames": "MyTools",
+    "description": "my tools",
+    "unity": "2019.2",
+    "dependencies": {
+
+    },
+    "keywords": ["tools", "extensions", "dapper"],
+    "author": {
+        "name": "jamjam"
+    }
+}
